@@ -1,0 +1,87 @@
+{
+    "day1checkin": {
+        "order": 0,
+        "display_text": {
+            "en-US": "Day 1 Check-in",
+            "zh-TW": "Day 1 報到"
+        },
+        "available_time": "2019/09/20 7:30 +0800",
+        "expire_time": "2019/09/20 17:00 +0800",
+        "countdown": 0,
+        "related_scenario": [
+            {
+                "id": "kit",
+                "staff_query_used": true,
+                "unlock": true
+            }
+        ],
+        "deliver_puzzle": 2
+    },
+    "kit": {
+        "order": 1,
+        "display_text": {
+            "en-US": "Welcome Kit",
+            "zh-TW": "迎賓小禮"
+        },
+        "available_time": "2019/09/20 8:30 +0800",
+        "expire_time": "2019/09/22 14:00 +0800",
+        "countdown": 30,
+        "lock_message": "Haven't Check-in",
+        "attr": [
+            {
+                "row_name": "shirt_size",
+                "attr_name": "shirt_size"
+            }
+        ]
+    },
+    "day2checkin": {
+        "order": 2,
+        "display_text": {
+            "en-US": "Day 2 Check-in",
+            "zh-TW": "Day 2 報到"
+        },
+        "available_time": "2019/09/21 7:30 +0800",
+        "expire_time": "2019/09/21 17:00 +0800",
+        "countdown": 0,
+        "related_scenario": [
+            {
+                "id": "kit",
+                "staff_query_used": true,
+                "unlock": true
+            }
+        ]
+    },
+    "day3checkin": {
+        "order": 3,
+        "display_text": {
+            "en-US": "Day 3 Check-in",
+            "zh-TW": "Day 3 報到"
+        },
+        "available_time": "2019/09/22 7:30 +0800",
+        "expire_time": "2019/09/22 17:00 +0800",
+        "countdown": 0,
+        "related_scenario": [
+            {
+                "id": "kit",
+                "staff_query_used": true,
+                "unlock": true
+            }
+        ]
+    },
+    "vipkit": {
+        "order": 4,
+        "display_text": {
+            "en-US": "Special Gift",
+            "zh-TW": "獨家紀念品"
+        },
+        "available_time": "2019/09/20 10:00 +0800",
+        "expire_time": "2019/09/22 15:00 +0800",
+        "countdown": 30,
+        "attr": [
+            {
+                "row_name": "fee",
+                "attr_name": "fee"
+            }
+        ]
+    }
+}
