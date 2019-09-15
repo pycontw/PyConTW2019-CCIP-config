@@ -5,7 +5,7 @@
             "en-US": "Day 1 Check-in",
             "zh-TW": "Day 1 報到"
         },
-        "available_time": "2019/09/20 7:30 +0800",
+        "available_time": "2019/09/20 8:10 +0800",
         "expire_time": "2019/09/20 17:00 +0800",
         "countdown": 0,
         "related_scenario": [
@@ -23,7 +23,7 @@
             "en-US": "Welcome Kit",
             "zh-TW": "迎賓小禮"
         },
-        "available_time": "2019/09/20 7:30 +0800",
+        "available_time": "2019/09/20 8:10 +0800",
         "expire_time": "2019/09/22 14:00 +0800",
         "countdown": 30,
         "lock_message": "Haven't Check-in",
@@ -40,7 +40,7 @@
             "en-US": "Day 2 Check-in",
             "zh-TW": "Day 2 報到"
         },
-        "available_time": "2019/09/21 7:30 +0800",
+        "available_time": "2019/09/21 8:10 +0800",
         "expire_time": "2019/09/21 17:00 +0800",
         "countdown": 0,
         "related_scenario": [
@@ -57,7 +57,7 @@
             "en-US": "Day 3 Check-in",
             "zh-TW": "Day 3 報到"
         },
-        "available_time": "2019/09/22 7:30 +0800",
+        "available_time": "2019/09/22 8:10 +0800",
         "expire_time": "2019/09/22 17:00 +0800",
         "countdown": 0,
         "related_scenario": [
